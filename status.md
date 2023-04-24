@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Anthony Lam
 
 #### Your section leader's name
 
-TODO
+Anthony Lam
 
 #### Project title
 
-TODO
+project A swordsman journey
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have got some artwork read to be used and how to make the background and character and how the character moves.
 
 #### What have you not done for your project yet?
 
-TODO
+the enemies, weapons, the timer, exp bar.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I haven't had any problems.
